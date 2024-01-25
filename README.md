@@ -1,0 +1,1 @@
+This repository contains a simple code for classification of a person(male or female) in real time. Convolutional Neural Networks (ConvNets or CNNs) are used for image-based recognition tasks. It uses haar cascade classifier to detect the frontal face.
